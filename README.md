@@ -26,11 +26,15 @@ FinBERT, a fine-tuned version of BERT for finance, helps overcome this by provid
 **Brand Monitoring & Reputation Management:**
 
 1.Tracks customer sentiment about a brand on social media and reviews.
+
 2'Helps businesses manage public perception and respond proactively.
+
 **Customer Feedback & Product Reviews:**
 
 1.Analyzes customer feedback to improve products and services.
+
 2.Identifies common complaints and areas for business improvement.
+
 # Compiler Type:
 Complied it on GPU 
 # Results:

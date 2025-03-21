@@ -38,6 +38,6 @@ FinBERT, a fine-tuned version of BERT for finance, helps overcome this by provid
 # Compiler Type:
 Complied it on GPU 
 # Results:
-
+The Test Accuracy is 84%
 # Owner
 [Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
